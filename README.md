@@ -13,7 +13,7 @@
       but I enjoy anything related to programming.
       <br><br>
       <b>langs && tools:</b><br>
-      ▸ python, c++, bash, docker.
+      ▸ python, c++, javascript, bash, docker.
       <br><br>
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-logo-icon-svg-download-png-3030100.png?f=webp" width="40" height="40"/> <a href="https://www.hackerrank.com/profile/du8bit"> HackerRank Profile </a>
       </p>
